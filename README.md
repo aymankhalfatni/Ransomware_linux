@@ -1,2 +1,3 @@
-# Ransomware_linux
-virus ransomware linux/ubuntu/blackbox....
+# Ransomware
+Ransomeware Linux
+anonymouxxxxx@gmail.com
